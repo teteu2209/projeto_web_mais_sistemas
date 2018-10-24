@@ -1,0 +1,59 @@
+/*Inicio Botão Personalizado */
+.btn-verde {
+    color: #fff;
+    background-color: #1aad72;
+    border-color: #148b5b;
+}
+.btn-verde:focus,
+.btn-verde.focus {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde:hover {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde:active,
+.btn-verde.active,
+.open > .dropdown-toggle.btn-verde {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde:active:hover,
+.btn-verde.active:hover,
+.open > .dropdown-toggle.btn-verde:hover,
+.btn-verde:active:focus,
+.btn-verde.active:focus,
+.open > .dropdown-toggle.btn-verde:focus,
+.btn-verde:active.focus,
+.btn-verde.active.focus,
+.open > .dropdown-toggle.btn-verde.focus {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde:active,
+.btn-verde.active,
+.open > .dropdown-toggle.btn-verde {
+    background-image: none;
+}
+.btn-verde.disabled:hover,
+.btn-verde[disabled]:hover,
+fieldset[disabled] .btn-verde:hover,
+.btn-verde.disabled:focus,
+.btn-verde[disabled]:focus,
+fieldset[disabled] .btn-verde:focus,
+.btn-verde.disabled.focus,
+.btn-verde[disabled].focus,
+fieldset[disabled] .btn-verde.focus {
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde .badge {
+    color: #d9534f;
+    background-color: #fff;
+}
+/*Fim Botão Personalizado */

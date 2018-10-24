@@ -1,0 +1,213 @@
+/*Inicio Botão Personalizado */
+.btn-verde {
+    color: #fff;
+    background-color: #1aad72;
+    border-color: #148b5b;
+}
+.btn-verde:focus,
+.btn-verde.focus {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde:hover {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde:active,
+.btn-verde.active,
+.open > .dropdown-toggle.btn-verde {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde:active:hover,
+.btn-verde.active:hover,
+.open > .dropdown-toggle.btn-verde:hover,
+.btn-verde:active:focus,
+.btn-verde.active:focus,
+.open > .dropdown-toggle.btn-verde:focus,
+.btn-verde:active.focus,
+.btn-verde.active.focus,
+.open > .dropdown-toggle.btn-verde.focus {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde:active,
+.btn-verde.active,
+.open > .dropdown-toggle.btn-verde {
+    background-image: none;
+}
+.btn-verde.disabled:hover,
+.btn-verde[disabled]:hover,
+fieldset[disabled] .btn-verde:hover,
+.btn-verde.disabled:focus,
+.btn-verde[disabled]:focus,
+fieldset[disabled] .btn-verde:focus,
+.btn-verde.disabled.focus,
+.btn-verde[disabled].focus,
+fieldset[disabled] .btn-verde.focus {
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde .badge {
+    color: #d9534f;
+    background-color: #fff;
+}
+
+/*Inicio Botão verde Personalizado perfil*/
+.btn-verde-perfil {
+    color: #fff;
+    background-color: #29aba4;
+    border-color: #29aba4;
+}
+.btn-verde-perfil:focus,
+.btn-verde-perfil.focus {
+    color: #fff;
+    background-color: #29aba4;
+    border-color: #29aba4;
+}
+.btn-verde-perfil:hover {
+    color: #fff;
+    background-color: #29aba4;
+    border-color: #29aba4;
+}
+.btn-verde-perfil:active,
+.btn-verde-perfil.active,
+.open > .dropdown-toggle.btn-verde-perfil {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde-perfil:active:hover,
+.btn-verde-perfil.active:hover,
+.open > .dropdown-toggle.btn-verde-perfil:hover,
+.btn-verde-perfil:active:focus,
+.btn-verde-perfil.active:focus,
+.open > .dropdown-toggle.btn-verde-perfil:focus,
+.btn-verde-perfil:active.focus,
+.btn-verde-perfil.active.focus,
+.open > .dropdown-toggle.btn-verde-perfil.focus {
+    color: #fff;
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde-perfil:active,
+.btn-verde-perfil.active,
+.open > .dropdown-toggle.btn-verde-perfil {
+    background-image: none;
+}
+.btn-verde-perfil.disabled:hover,
+.btn-verde-perfil[disabled]:hover,
+fieldset[disabled] .btn-verde-perfil:hover,
+.btn-verde-perfil.disabled:focus,
+.btn-verde-perfil[disabled]:focus,
+fieldset[disabled] .btn-verde-perfil:focus,
+.btn-verde-perfil.disabled.focus,
+.btn-verde-perfil[disabled].focus,
+fieldset[disabled] .btn-verde-perfil.focus {
+    background-color: #25c384;
+    border-color: #148b5b;
+}
+.btn-verde-perfil .badge {
+    color: #d9534f;
+    background-color: #fff;
+}
+
+/*Inicio Botão roxo Personalizado */
+.btn-roxo {
+    color: #fff;
+    background-color: #9e61f2;
+    border-color: #7526e0;
+}
+.btn-roxo:focus,
+.btn-roxo.focus {
+    color: #fff;
+    background-color: #8d47ec;
+    border-color: #651aca;
+}
+.btn-roxo:hover {
+    color: #fff;
+    background-color: #8d47ec;
+    border-color: #651aca;
+}
+.btn-roxo:active,
+.btn-roxo.active,
+.open > .dropdown-toggle.btn-roxo {
+    color: #fff;
+    background-color: #8d47ec;
+    border-color: #651aca;
+}
+.btn-roxo:active:hover,
+.btn-roxo.active:hover,
+.open > .dropdown-toggle.btn-roxo:hover,
+.btn-roxo:active:focus,
+.btn-roxo.active:focus,
+.open > .dropdown-toggle.btn-roxo:focus,
+.btn-roxo:active.focus,
+.btn-roxo.active.focus,
+.open > .dropdown-toggle.btn-roxo.focus {
+    color: #fff;
+    background-color: #8d47ec;
+    border-color: #651aca;
+}
+.btn-roxo:active,
+.btn-roxo.active,
+.open > .dropdown-toggle.btn-roxo {
+    background-image: none;
+}
+.btn-roxo.disabled:hover,
+.btn-roxo[disabled]:hover,
+fieldset[disabled] .btn-roxo:hover,
+.btn-roxo.disabled:focus,
+.btn-roxo[disabled]:focus,
+fieldset[disabled] .btn-roxo:focus,
+.btn-roxo.disabled.focus,
+.btn-roxo[disabled].focus,
+fieldset[disabled] .btn-roxo.focus {
+    background-color: #8d47ec;
+    border-color: #651aca;
+}
+.btn-roxo .badge {
+    color: #d9534f;
+    background-color: #fff;
+}
+/*Fim Botão roxo Personalizado */
+/*Fim Botão Personalizado */
+
+/*Linha superior*/
+.header-admin{
+    height: 50px;
+    width: 100%;
+    background-color: #29aba4;
+}
+/*Cor de fundo corpo*/
+body{
+    background-color: #f5f5f5;
+}
+
+/*Cor fundo Menu*/
+.sidenav{
+    background-color: #364150;
+    min-height: 800px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.sidenav ul li a{
+    border-radius: 0px;
+    color: #c6d1e2;
+}
+
+.sidenav ul li a:hover{
+    background-color: #29aba4;
+}
+
+/*Conteudo wel*/
+.conteudo{
+    border-radius: 0px;
+    background-color: #fff;
+    margin-top: 5px;
+}
